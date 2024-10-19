@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import SearchComponent from './components/SearchComponent';
 import WeatherDisplay from './components/WeatherDisplay';
 import FavoriteComponent from './components/FavoriteComponent';
