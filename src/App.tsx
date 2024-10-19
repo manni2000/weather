@@ -88,9 +88,9 @@ function AppContent() {
   return (
     <div className={`min-h-screen ${isDarkMode ? 'bg-gray-900 text-white' : 'bg-gray-100 text-gray-900'}`}>
       <div className="container mx-auto px-4 py-8">
-        <header className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold text-center">Weather Dashboard</h1>
-          <div className="flex items-center space-x-4">
+        <header className="flex flex-col items-center mb-8">
+          <h1 className="text-3xl font-bold text-center">Weather Dashboard</h1>
+          <div className="flex items-center space-x-4 mt-4">
             <button onClick={toggleUnit} className="px-3 py-1 rounded bg-blue-500 text-white">
               {unit === 'metric' ? '°C' : '°F'}
             </button>

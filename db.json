@@ -1,10 +1,6 @@
 {
   "favorites": [
     {
-      "id": "5ee8",
-      "name": "Pune"
-    },
-    {
       "id": "97e1",
       "name": "Kolkata"
     },
@@ -15,6 +11,10 @@
     {
       "id": "ae3b",
       "name": "Bengaluru"
+    },
+    {
+      "id": "1397",
+      "name": "Puri"
     }
   ]
 }
