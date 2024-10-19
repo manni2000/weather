@@ -27,7 +27,7 @@ Here’s a concise version of the analysis, focusing on key features:
    - Toggle between Celsius and Fahrenheit for temperature display.
 
 ## Technologies used
-- HTML, CSS, and JavaScript, React.js, Vue.js, TypeScript.
+- HTML, CSS, JavaScript, React.js, Vue.js, TypeScript.
   
 ## Preview
 
